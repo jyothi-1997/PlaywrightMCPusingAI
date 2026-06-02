@@ -1,0 +1,133 @@
+- generic [ref=e582]:
+  - navigation [ref=e584]:
+    - generic [ref=e586]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e587] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e588]
+          - paragraph [ref=e589]: Automation Practice
+    - text: 
+    - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e590] [cursor=pointer]:
+      - /url: https://techsmarthire.com/
+    - list [ref=e591]:
+      - listitem [ref=e592] [cursor=pointer]:
+        - button " HOME" [ref=e593]:
+          - generic [ref=e594]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e595] [cursor=pointer]:
+        - button " ORDERS" [ref=e596]:
+          - generic [ref=e597]: 
+          - text: ORDERS
+      - listitem [ref=e598] [cursor=pointer]:
+        - button " Cart" [ref=e599]:
+          - generic [ref=e600]: 
+          - text: Cart
+      - listitem [ref=e601] [cursor=pointer]:
+        - button "Sign Out" [ref=e602]:
+          - generic [ref=e603]: 
+          - text: Sign Out
+  - text:    
+  - generic [ref=e604]:
+    - paragraph [ref=e605]: Home | Search
+    - heading "Filters" [level=4] [ref=e607]
+    - generic [ref=e608]:
+      - textbox "search" [ref=e610]
+      - generic [ref=e611]:
+        - heading "Price Range" [level=6] [ref=e612]
+        - generic [ref=e613]:
+          - textbox "Min Price" [ref=e615]
+          - textbox "Max Price" [ref=e617]
+      - generic [ref=e618]:
+        - heading "Categories" [level=6] [ref=e619]
+        - generic [ref=e621]: 
+        - generic [ref=e622]:
+          - checkbox [ref=e623]
+          - generic [ref=e624]: fashion
+        - generic [ref=e625]:
+          - checkbox [ref=e626]
+          - generic [ref=e627]: electronics
+        - generic [ref=e628]:
+          - checkbox [ref=e629]
+          - generic [ref=e630]: household
+      - generic [ref=e631]:
+        - heading "Sub Categories" [level=6] [ref=e632]
+        - generic [ref=e634]: 
+        - generic [ref=e635]:
+          - checkbox [ref=e636]
+          - generic [ref=e637]: t-shirts
+        - generic [ref=e638]:
+          - checkbox [ref=e639]
+          - generic [ref=e640]: shirts
+        - generic [ref=e641]:
+          - checkbox [ref=e642]
+          - generic [ref=e643]: shoes
+        - generic [ref=e644]:
+          - checkbox [ref=e645]
+          - generic [ref=e646]: mobiles
+        - generic [ref=e647]:
+          - checkbox [ref=e648]
+          - generic [ref=e649]: laptops
+      - generic [ref=e650]:
+        - heading "Search For" [level=6] [ref=e651]
+        - generic [ref=e653]: 
+        - generic [ref=e654]:
+          - checkbox [ref=e655]
+          - generic [ref=e656]: men
+        - generic [ref=e657]:
+          - checkbox [ref=e658]
+          - generic [ref=e659]: women
+  - generic [ref=e660]:
+    - generic [ref=e661]:
+      - generic [ref=e662]:
+        - generic [ref=e663]: Showing 3 results |
+        - generic [ref=e664]: User can only see maximum 9 products on a page
+      - generic [ref=e665]:
+        - generic [ref=e667]:
+          - img [ref=e668]
+          - generic [ref=e669]:
+            - heading "ADIDAS ORIGINAL" [level=5] [ref=e670]
+            - generic [ref=e672]: $ 11500
+            - button "View" [ref=e673] [cursor=pointer]:
+              - generic [ref=e674]: 
+              - text: View
+            - button " Add To Cart" [ref=e675] [cursor=pointer]:
+              - generic [ref=e676]: 
+              - text: Add To Cart
+        - generic [ref=e678]:
+          - img [ref=e679]
+          - generic [ref=e680]:
+            - heading "ZARA COAT 3" [level=5] [ref=e681]
+            - generic [ref=e683]: $ 11500
+            - button "View" [ref=e684] [cursor=pointer]:
+              - generic [ref=e685]: 
+              - text: View
+            - button " Add To Cart" [ref=e686] [cursor=pointer]:
+              - generic [ref=e687]: 
+              - text: Add To Cart
+        - generic [ref=e689]:
+          - img [ref=e690]
+          - generic [ref=e691]:
+            - heading "iphone 13 pro" [level=5] [ref=e692]
+            - generic [ref=e694]: $ 55000
+            - button "View" [ref=e695] [cursor=pointer]:
+              - generic [ref=e696]: 
+              - text: View
+            - button " Add To Cart" [ref=e697] [cursor=pointer]:
+              - generic [ref=e698]: 
+              - text: Add To Cart
+    - list "Pagination" [ref=e703]:
+      - listitem [ref=e704]:
+        - text: «
+        - generic [ref=e705]:
+          - text: Previous
+          - generic [ref=e706]: page
+      - listitem [ref=e707]:
+        - generic [ref=e708]: You're on page
+        - text: "1"
+      - listitem [ref=e709]:
+        - generic [ref=e710]:
+          - text: Next
+          - generic [ref=e711]: page
+        - text: »
+  - generic [ref=e712]: Design and Developed By - Kunal Sharma

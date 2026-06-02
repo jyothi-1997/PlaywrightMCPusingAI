@@ -1,0 +1,117 @@
+- generic [ref=e767]:
+  - navigation [ref=e769]:
+    - generic [ref=e771]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e772] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e773]
+          - paragraph [ref=e774]: Automation Practice
+    - text: 
+    - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e775] [cursor=pointer]:
+      - /url: https://techsmarthire.com/
+    - list [ref=e776]:
+      - listitem [ref=e777] [cursor=pointer]:
+        - button " HOME" [ref=e778]:
+          - generic [ref=e779]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e780] [cursor=pointer]:
+        - button " ORDERS" [ref=e781]:
+          - generic [ref=e782]: 
+          - text: ORDERS
+      - listitem [ref=e783] [cursor=pointer]:
+        - button " Cart 1" [ref=e784]:
+          - generic [ref=e785]: 
+          - text: Cart
+          - generic [ref=e786]: "1"
+      - listitem [ref=e787] [cursor=pointer]:
+        - button "Sign Out" [ref=e788]:
+          - generic [ref=e789]: 
+          - text: Sign Out
+  - generic [ref=e792]:
+    - generic [ref=e796]:
+      - generic [ref=e797]: ADIDAS ORIGINAL
+      - generic [ref=e798]: $ 11500
+      - generic [ref=e799]: "Quantity: 1"
+      - list [ref=e801]:
+        - listitem [ref=e802]: Apple phone
+    - generic [ref=e805]:
+      - generic [ref=e806]: Payment Method
+      - generic [ref=e807]:
+        - generic [ref=e808] [cursor=pointer]: Credit Card
+        - generic [ref=e809] [cursor=pointer]: Paypal
+        - generic [ref=e810] [cursor=pointer]: SEPA
+        - generic [ref=e811] [cursor=pointer]: Invoice
+      - generic [ref=e812]:
+        - generic [ref=e813]:
+          - generic [ref=e814]: Personal Information
+          - generic [ref=e816]:
+            - generic [ref=e818]:
+              - generic [ref=e819]: Credit Card Number
+              - textbox [ref=e820]: 4542 9931 9292 2293
+            - generic [ref=e821]:
+              - generic [ref=e822]:
+                - generic [ref=e823]: Expiry Date
+                - combobox [ref=e824]:
+                  - option "01" [selected]
+                  - option "02"
+                  - option "03"
+                  - option "04"
+                  - option "05"
+                  - option "06"
+                  - option "07"
+                  - option "08"
+                  - option "09"
+                  - option "10"
+                  - option "11"
+                  - option "12"
+                - combobox [ref=e825]:
+                  - option "01"
+                  - option "02"
+                  - option "03"
+                  - option "04"
+                  - option "05"
+                  - option "06"
+                  - option "07"
+                  - option "08"
+                  - option "09"
+                  - option "10"
+                  - option "11"
+                  - option "12"
+                  - option "13"
+                  - option "14"
+                  - option "15"
+                  - option "16" [selected]
+                  - option "17"
+                  - option "18"
+                  - option "19"
+                  - option "20"
+                  - option "21"
+                  - option "22"
+                  - option "23"
+                  - option "24"
+                  - option "25"
+                  - option "26"
+                  - option "27"
+                  - option "28"
+                  - option "29"
+                  - option "30"
+                  - option "31"
+              - generic [ref=e826]:
+                - generic [ref=e827]: CVV Code ?
+                - textbox [ref=e828]
+            - generic [ref=e830]:
+              - generic [ref=e831]: Name on Card
+              - textbox [ref=e832]
+            - generic [ref=e833]:
+              - generic [ref=e834]:
+                - generic [ref=e835]: Apply Coupon
+                - textbox [ref=e836]
+              - button "Apply Coupon" [ref=e839] [cursor=pointer]
+        - generic [ref=e840]:
+          - generic [ref=e841]: Shipping Information
+          - generic [ref=e843]:
+            - generic [ref=e844]: qatestuser+1780381813781@example.com
+            - textbox [ref=e845]: qatestuser+1780381813781@example.com
+            - textbox "Select Country" [ref=e848]
+            - generic [ref=e850] [cursor=pointer]: Place Order

@@ -1,0 +1,107 @@
+- generic [ref=e249]:
+  - banner [ref=e250]:
+    - generic [ref=e251]:
+      - generic [ref=e253]: Ecom
+      - generic [ref=e255]:
+        - link " dummywebsite@rahulshettyacademy.com" [ref=e257] [cursor=pointer]:
+          - /url: emailto:dummywebsite@rahulshettyacademy.com
+          - generic [ref=e258]: 
+          - text: dummywebsite@rahulshettyacademy.com
+        - generic [ref=e259]:
+          - link "" [ref=e260] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e261]: 
+          - link "" [ref=e262] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e263]: 
+          - link "" [ref=e264] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e265]: 
+          - link "" [ref=e266] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e267]: 
+  - generic [ref=e268]:
+    - generic [ref=e269]:
+      - heading "We Make Your Shopping Simple" [level=3]
+      - heading "Practice Website for Rahul Shetty Academy Students" [level=1] [ref=e270]:
+        - text: Practice Website for
+        - emphasis [ref=e271]: Rahul Shetty Academy
+        - text: Students
+      - link "Register" [ref=e272] [cursor=pointer]:
+        - /url: "#/auth/register"
+    - generic [ref=e275]:
+      - heading "Register" [level=1] [ref=e276]
+      - generic [ref=e277]:
+        - generic [ref=e278]:
+          - generic [ref=e280]:
+            - generic [ref=e281]: First Name
+            - textbox "First Name" [ref=e282]
+          - generic [ref=e284]:
+            - generic [ref=e285]: Last Name
+            - textbox "Last Name" [ref=e286]
+        - generic [ref=e287]:
+          - generic [ref=e288]:
+            - generic [ref=e289]: Email
+            - textbox "email@example.com" [ref=e290]
+          - generic [ref=e291]:
+            - generic [ref=e292]: Phone Number
+            - textbox "enter your number" [ref=e293]
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e296]: Occupation
+            - combobox [ref=e297]:
+              - option "Choose your occupation" [disabled] [selected]
+              - option "Doctor"
+              - option "Student"
+              - option "Engineer"
+              - option "Scientist"
+          - generic [ref=e298]:
+            - generic [ref=e299]: Gender
+            - generic [ref=e300]:
+              - radio "Male" [ref=e301]
+              - text: Male
+            - generic [ref=e302]:
+              - radio "Female" [ref=e303]
+              - text: Female
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - generic [ref=e306]: Password
+            - textbox "Passsword" [ref=e307]
+          - generic [ref=e308]:
+            - generic [ref=e309]: Confirm Password
+            - textbox "Confirm Password" [ref=e310]:
+              - /placeholder: Confirm Passsword
+        - generic [ref=e311]:
+          - checkbox [ref=e313]
+          - generic [ref=e314]: I am 18 year or Older
+        - button "Register" [ref=e315] [cursor=pointer]
+      - paragraph [ref=e316] [cursor=pointer]: Already have an account? Login here
+  - generic [ref=e317]:
+    - heading "Why People Choose Us?" [level=1] [ref=e320]
+    - generic [ref=e321]:
+      - generic [ref=e322]:
+        - generic [ref=e324]: 
+        - generic [ref=e325]:
+          - heading "3546540" [level=1]
+          - paragraph [ref=e326]: Successfull Orders
+      - generic [ref=e327]:
+        - generic [ref=e329]: 
+        - generic [ref=e330]:
+          - heading "37653" [level=1]
+          - paragraph [ref=e331]: Customers
+      - generic [ref=e332]:
+        - generic [ref=e334]: 
+        - generic [ref=e335]:
+          - heading "3243" [level=1]
+          - paragraph [ref=e336]: Sellers
+    - generic [ref=e337]:
+      - generic [ref=e338]:
+        - generic [ref=e340]: 
+        - generic [ref=e341]:
+          - heading "4500+" [level=1]
+          - paragraph [ref=e342]: Daily Orders
+      - generic [ref=e343]:
+        - generic [ref=e345]: 
+        - generic [ref=e346]:
+          - heading "500+" [level=1]
+          - paragraph [ref=e347]: Daily New Customer Joining

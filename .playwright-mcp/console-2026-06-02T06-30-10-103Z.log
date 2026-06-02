@@ -1,0 +1,42 @@
+[     111ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/register:0
+[     111ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/register:0
+[    3757ms] [ERROR] ERROR TypeError: this.registerForm.value.occupation.setValue is not a function
+    at t.changeOcp (https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:32925)
+    at https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:8447
+    at jp (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101100)
+    at i (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101309)
+    at HTMLSelectElement.<anonymous> (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:164154)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7137)
+    at Object.onInvokeTask (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:146255)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7058)
+    at M.runTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:2532)
+    at m.invokeTask [as invoke] (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:8188) @ https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:0
+[    9815ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/login:0
+[   14245ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   14249ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   14442ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   14478ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   14508ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   14549ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   51145ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   51146ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   52453ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   52511ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   52555ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   63246ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   66467ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   71842ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   72977ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   90355ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   90357ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0

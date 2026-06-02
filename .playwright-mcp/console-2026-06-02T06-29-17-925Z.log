@@ -1,0 +1,25 @@
+[     176ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/register:0
+[     177ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/register:0
+[   17542ms] [ERROR] ERROR TypeError: this.registerForm.value.occupation.setValue is not a function
+    at t.changeOcp (https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:32925)
+    at https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:8447
+    at jp (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101100)
+    at i (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101309)
+    at HTMLSelectElement.<anonymous> (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:164154)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7137)
+    at Object.onInvokeTask (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:146255)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7058)
+    at M.runTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:2532)
+    at m.invokeTask [as invoke] (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:8188) @ https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:0
+[   28209ms] [ERROR] ERROR TypeError: this.registerForm.value.occupation.setValue is not a function
+    at t.changeOcp (https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:32925)
+    at https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js:1:8447
+    at jp (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101100)
+    at i (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:101309)
+    at HTMLSelectElement.<anonymous> (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:164154)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7137)
+    at Object.onInvokeTask (https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:1:146255)
+    at v.invokeTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:7058)
+    at M.runTask (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:2532)
+    at m.invokeTask [as invoke] (https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js:1:8188) @ https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js:0
+[   44295ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/login:0
